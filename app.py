@@ -9,9 +9,9 @@ import pinecone
 
 
 # Set up OpenAI API key
-openai.api_key = st.secrets["OPENAI_API_KEY"]
-pinecone.init(api_key=st.secrets["PINECONE_API_KEY"], environment=st.secrets["PINECONE_ENVIRONMENT"])
-index = pinecone.Index(st.secrets["PINECONE_INDEX_NAME"])
+openai.api_key = st.secrets[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]
+pinecone.init(api_key=st.secrets[dec96f12-3c3e-466b-bce0-5f87b70c7845], environment=st.secrets[gcp-starter])
+index = pinecone.Index(st.secrets[https://trickster-df26049.svc.gcp-starter.pinecone.io)
 
 st.header("HormoziGPT - By Liam Ottley")
 
