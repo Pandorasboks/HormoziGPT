@@ -9,7 +9,7 @@ import pinecone
 
 
 # Set up OpenAI API key
-openai.api_key = st.secrets[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]
+openai.api_key = st.secrets["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"]
 pinecone.init(api_key=st.secrets[dec96f12-3c3e-466b-bce0-5f87b70c7845], environment=st.secrets[gcp-starter])
 index = pinecone.Index(st.secrets[https://trickster-df26049.svc.gcp-starter.pinecone.io)
 
